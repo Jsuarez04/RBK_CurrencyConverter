@@ -1,0 +1,17 @@
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.csproj.AssemblyReference.cache
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.AssemblyInfoInputs.cache
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.AssemblyInfo.cs
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.csproj.CoreCompileInputs.cache
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Conversor de divisas.exe
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Conversor de divisas.deps.json
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Conversor de divisas.runtimeconfig.json
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Conversor de divisas.dll
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Conversor de divisas.pdb
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Converso.B978746F.Up2Date
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.dll
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\refint\Conversor de divisas.dll
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.pdb
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\Conversor de divisas.genruntimeconfig.cache
+C:\Users\Julito Suarez\source\repos\Conversor de divisas\Conversor de divisas\obj\Debug\net8.0\ref\Conversor de divisas.dll
